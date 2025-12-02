@@ -1,0 +1,9 @@
+# Portfolio — bykapnd
+
+This repository contains my public portfolio, showcasing:
+- Creative AI workflows
+- Automation experiments
+- Prompt engineering notes
+- AI video generation research
+
+More updates coming soon.

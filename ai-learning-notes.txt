@@ -1,0 +1,9 @@
+# AI Learning Notes
+
+Notes on:
+- AI prompting
+- Video generation tools
+- Workflow engineering
+- Creative automation
+
+Daily notes and updates.

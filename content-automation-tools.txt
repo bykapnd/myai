@@ -1,0 +1,9 @@
+# Content Automation Tools
+
+Documented workflows for:
+- AI video generation pipelines
+- Multi-step prompt workflows
+- Creative process automation
+- Template-based content systems
+
+This repo will grow as I publish more tools.

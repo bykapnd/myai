@@ -1,0 +1,11 @@
+# AI Prompts Creative Kit
+
+A curated list of prompts I use for:
+- Suno music generation
+- Google Veo 3 video prompts
+- Nano Banana editing
+- Higgsfield Soul templates
+- Surreal creature prompts
+- UGC templates
+
+Feel free to explore and adapt.
